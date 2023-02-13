@@ -1,0 +1,19 @@
+body{
+    width:800px;
+    height:800px;
+    border:1px solid black;
+}
+.row{
+    width:800px;
+    height:100px;
+    display: flex;
+}
+.box{
+    width:100px;
+    height:100px;
+    border:1px;
+}
+.black
+{
+    background-color:cadetblue;
+}
