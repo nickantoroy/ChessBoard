@@ -1,2 +1,1 @@
-# nick555
-first repositary
+Hey there! Its my second project! Hope you like it.
